@@ -1,0 +1,1 @@
+{"name":"jsc-interactive-experience","version":"1.0.0","private":true,"scripts":{"build":"mkdir -p public/demos/jsc-interactive-v1 && cp index.html public/index.html && cp demos/jsc-interactive-v1/index.html public/demos/jsc-interactive-v1/index.html"}}
